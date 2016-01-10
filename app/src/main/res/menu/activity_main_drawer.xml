@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/new_vac"
+            android:title="Новые вакансии" />
+        <item android:id="@+id/mesages"
+            android:title="Сообщения" />
+        <item android:id="@+id/candidate"
+            android:title="Резерв Stafory" />
+        <item android:id="@+id/catalog"
+            android:title="Каталог агентств" />
+        <item android:id="@+id/exit"
+            android:title="Выйти" />
+    </group>
+
+
+</menu>

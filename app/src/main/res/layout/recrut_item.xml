@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/recImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/graygoogle"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+    </ImageView>
+    <TextView
+        android:id="@+id/recName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="werwer"
+        android:textSize="20sp"
+        android:textColor="@color/graygoogle">
+    </TextView>
+    <TextView
+        android:id="@+id/recCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="werwer"
+        android:textColor="@color/graycustom"
+        android:layout_below="@+id/recName">
+    </TextView>
+    <TextView
+        android:id="@+id/recReit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="werwer"
+        android:textColor="@color/black"
+        android:layout_below="@+id/recCity">
+    </TextView>
+</RelativeLayout>

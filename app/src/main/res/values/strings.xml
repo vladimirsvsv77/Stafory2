@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Stafory</string>
+    <string name="title_activity_kad_cabinet">kadCabinet</string>
+    <string name="title_activity_vac_view">Stafory</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profil">Profil</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password or email is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="error_invalid_pass_or_login">Неправильный логин или пароль</string>
+    <string name="message">Ваше сообщение</string>
+    <string name="message_button">Отправить</string>
+</resources>
